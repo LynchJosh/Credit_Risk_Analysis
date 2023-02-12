@@ -13,44 +13,44 @@ This project uses multiple machine learning techniques to help predict credit ri
 #	Results
 
 ##	Naive Random Oversampling
-Balanced Accuracy Score: (67%)
-Precision: High Risk (1%) Low Risk (100%)
-Recall: High Risk (57%) Low Risk (64%) 
+- Balanced Accuracy Score: (67%)
+- Precision: High Risk (1%) Low Risk (100%)
+- Recall: High Risk (57%) Low Risk (64%) 
 
 ![Naive Random Oversampling 1](https://user-images.githubusercontent.com/112728628/218329188-5af20524-693a-4b2e-aa06-e27fdcd3ba51.PNG)
 
 ##	SMOTE Oversampling
-Balanced Accuracy Score: (66%)
-Precision: High Risk (1%) Low Risk (100%)
-Recall: High Risk (63%) Low Risk (69%) 
+- Balanced Accuracy Score: (66%)
+- Precision: High Risk (1%) Low Risk (100%)
+- Recall: High Risk (63%) Low Risk (69%) 
 
 ![SMOTE Oversampling 2](https://user-images.githubusercontent.com/112728628/218329192-3298a769-4def-46bf-bf1b-4c34ddb230ec.PNG)
 
 ##	Undersampling Using Cluster Centroids
-Balanced Accuracy Score: (54%)
-Precision: High Risk (1%) Low Risk (100%)
-Recall: High Risk (69%) Low Risk (40%) 
+- Balanced Accuracy Score: (54%)
+- Precision: High Risk (1%) Low Risk (100%)
+- Recall: High Risk (69%) Low Risk (40%) 
 
 ![Undersampling Using Cluster Centroids 3](https://user-images.githubusercontent.com/112728628/218329200-7fb9179e-b084-48cc-89bf-6efec81269e3.PNG)
 
 ##	Over and Undersampling using SMOTEENN
-Balanced Accuracy Score: (67%)
-Precision: High Risk (1%) Low Risk (100%)
-Recall: High Risk (75%) Low Risk (60%) 
+- Balanced Accuracy Score: (67%)
+- Precision: High Risk (1%) Low Risk (100%)
+- Recall: High Risk (75%) Low Risk (60%) 
 
 ![Over and Undersampling using SMOTEENN 4](https://user-images.githubusercontent.com/112728628/218329205-7406b087-449b-4a3b-a3f5-b565df078f35.PNG)
 
 ##	Balanced Random Forest Classifier
-Balanced Accuracy Score: (79%)
-Precision: High Risk (3%) Low Risk (100%)
-Recall: High Risk (70%) Low Risk (87%) 
+- Balanced Accuracy Score: (79%)
+- Precision: High Risk (3%) Low Risk (100%)
+- Recall: High Risk (70%) Low Risk (87%) 
 
 ![Balanced Random Forest Classifier 5](https://user-images.githubusercontent.com/112728628/218329215-fbd774d6-3de8-41b9-b1d7-6b0b72d71620.PNG)
 
 ##	Easy Ensemble AdaBoost Classifier
-Balanced Accuracy Score: (92%)
-Precision: High Risk (5%) Low Risk (100%)
-Recall: High Risk (93%) Low Risk (90%)
+- Balanced Accuracy Score: (92%)
+- Precision: High Risk (5%) Low Risk (100%)
+- Recall: High Risk (93%) Low Risk (90%)
 
 ![Easy Ensemble AdaBoost Classifier 6](https://user-images.githubusercontent.com/112728628/218329220-862083eb-f53d-4a04-ac4d-d9a071ded345.PNG)
 
